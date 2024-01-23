@@ -1,0 +1,204 @@
+body {
+    text-align: center;
+    background-color: #f2f2f2	 !important;
+    /* background-color: #F5C1CE !important; */
+}
+
+nav {
+    color: white;
+}
+
+.info {
+    max-width: 50%;
+    margin-bottom: 20px;
+}
+
+.admin-card {
+    margin: auto;
+    max-width: 525px !important;
+
+}
+
+.admin-btn,
+.student-btn,
+.student-btn-manage {
+    font-weight: 500;
+}
+
+.admin-row {
+    margin-bottom: 25px;
+}
+
+.logo {
+    margin-top: 5px;
+    margin-left: 30px;
+    font-weight: 800 !important;
+    font-size: larger;
+}
+
+.student-btn,
+.student-input {
+    width: 100%;
+}
+
+.student-search {
+    width: 20px;
+    margin-left: 5px;
+}
+
+.student-table {
+    margin-top: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+.student-data {
+    margin-bottom: 10px;
+}
+
+.student-pagination {
+    margin: 30px auto;
+}
+
+.student-pagination a {
+    color: black;
+}
+
+.student-pagination .veh {
+    color: black;
+    font-weight: bold;
+    background-color: #FFCD39;
+    border-color: #FFCD39;
+}
+
+.student-btn-manage {
+    margin: 20px auto;
+}
+
+.approved {
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+    color: green;
+}
+
+.disproved {
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+    color: red;
+}
+
+.edit,
+.delete,
+.save,
+.decline {
+    width: 80px;
+    margin: 0 5px;
+}
+
+.exit,
+.yes {
+    margin: auto;
+    padding: 20 40px !important;
+    width: 200px;
+}
+
+
+#approver-modal {
+    margin: auto !important;
+}
+
+.approver-modal-delete {
+    margin-top: 150px !important;
+}
+
+
+.user {
+    margin-right: 10px;
+    width: 50%;
+}
+
+.student-profile {
+    width: 30px;
+    margin-top: 8px;
+}
+
+.nav-drp {
+    font-weight: bold;
+}
+
+.username {
+    margin-top: 5px;
+}
+
+.label {
+    font-weight: bold;
+    display: block;
+    text-align: left;
+}
+
+#modal-title {
+    margin-left: 100px;
+}
+
+.application {
+    width: 700px;
+}
+
+.status {
+    margin-left: 10px;
+    padding: 5px 10px;
+    font-size: medium;
+}
+
+.open {
+    margin-top: 10px;
+}
+
+.clearance-app{
+    padding: 20px;
+    margin-bottom: 5px !important;
+}
+
+.step-title{
+    margin: auto;
+    text-align: left;
+}
+
+.s-details{
+    text-align: left;
+}
+
+.app-status{
+    margin: 10px auto;
+    padding: 10px;
+    width: 30%
+}
+
+.app-status > p{
+    margin: auto;
+}
+
+.close {
+    width: 2px;
+    height: 2px;
+    margin-right: 2px;
+    padding: 7px 7px;
+}
+
+.modalDetails{
+    text-align: center;
+    margin: auto;
+}
+
+div > .modal-header{
+    /* padding-left: 0; */
+    margin-left: 40px; 
+    text-align: center;
+}
+
+.modalAssign{
+    margin: 0 !important;
+    text-align: center !important;
+}

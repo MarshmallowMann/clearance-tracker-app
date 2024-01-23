@@ -1,0 +1,158 @@
+[{
+  "_id": {
+    "$oid": "647a10d98719327582622ace"
+  },
+  "email": "icsregcom.uplb@up.edu.ph",
+  "password": "$2b$10$jtsxMFRfBtnHlrV.J2Z22esAAJ1j1N51NxhG61v4K9XkklxMcrWPu",
+  "first_name": "Perico",
+  "middle_name": "Dan",
+  "last_name": "Dionisio",
+  "employee_number": "9999-99999",
+  "user_type": "Clearance Officer",
+  "applications": [],
+  "user_status": "approved",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647d53133ecafac9cc664d3d"
+  },
+  "email": "jcdespi@up.edu.ph",
+  "password": "$2b$10$5aGwD72VFZwdIvBrpOhORexYJAYLbHt3grIc.Qk.cVrpr7QajsmUq",
+  "first_name": "John Robertson",
+  "middle_name": "Cadeliña",
+  "last_name": "Despi",
+  "student_number": "2021-08843",
+  "user_type": "student",
+  "applications": [
+    {
+      "$oid": "647d570c3ecafac9cc664ef9"
+    },
+    {
+      "$oid": "647d57383ecafac9cc664f24"
+    }
+  ],
+  "user_status": "approved",
+  "__v": 0,
+  "adviser": {
+    "$oid": "647d554a3ecafac9cc664da5"
+  }
+},{
+  "_id": {
+    "$oid": "647d540f3ecafac9cc664d82"
+  },
+  "email": "apcomia@up.edu.ph",
+  "password": "$2b$10$Ki9FFo/CA8fDHMBY1iNWuuq2hIZ/MCDdIeydQ0RZ4fgzGY1O.Al1e",
+  "first_name": "Arjohn",
+  "middle_name": "Patrick",
+  "last_name": "Comia",
+  "student_number": "2021-01234",
+  "user_type": "student",
+  "applications": [
+    {
+      "$oid": "647d575b3ecafac9cc664f34"
+    }
+  ],
+  "user_status": "approved",
+  "__v": 0,
+  "adviser": {
+    "$oid": "647d55853ecafac9cc664dac"
+  }
+},{
+  "_id": {
+    "$oid": "647d54353ecafac9cc664d89"
+  },
+  "email": "jppalma@up.edu.ph",
+  "password": "$2b$10$CffF.Pk5jGHtjfRHMoxFRewR/ndojvsHjET1zGTo7kyqEwiUPO60a",
+  "first_name": "Jirah Hope",
+  "middle_name": "Parker",
+  "last_name": "Palma",
+  "student_number": "2020-12345",
+  "user_type": "student",
+  "applications": [
+    {
+      "$oid": "647d57933ecafac9cc664f51"
+    }
+  ],
+  "user_status": "approved",
+  "__v": 0,
+  "adviser": {
+    "$oid": "647d55bd3ecafac9cc664db3"
+  }
+},{
+  "_id": {
+    "$oid": "647d54603ecafac9cc664d90"
+  },
+  "email": "jboctavo@up.edu.ph",
+  "password": "$2b$10$0zbGJDDzw5tm1hXqZDH6cOASv/TqCqM5ltK263aUcJ6gHf7nm1BkO",
+  "first_name": "John Rommel",
+  "middle_name": "Bob",
+  "last_name": "Octavo",
+  "student_number": "2020-09876",
+  "user_type": "student",
+  "applications": [
+    {
+      "$oid": "647d59953ecafac9cc66517b"
+    }
+  ],
+  "user_status": "approved",
+  "__v": 0,
+  "adviser": {
+    "$oid": "647d55f33ecafac9cc664dba"
+  }
+},{
+  "_id": {
+    "$oid": "647d554a3ecafac9cc664da5"
+  },
+  "email": "kmtan4@up.edu.ph",
+  "password": "$2b$10$ORhNgVzVem.Wj6/yaq8HxOI2M5EydE4LJdcxmqrsz3lUqXsy3GbcW",
+  "first_name": "Katherine Loren",
+  "middle_name": "Masaya",
+  "last_name": "Tan",
+  "employee_number": "12-34567",
+  "user_type": "approver",
+  "applications": [],
+  "user_status": "pending",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647d55853ecafac9cc664dac"
+  },
+  "email": "mbcarandang2@up.edu.ph",
+  "password": "$2b$10$lGZoaLlMjcyzcMMUK8tcXefJKVQvNf1m2lptku/h3AN5eLVbGUuA.",
+  "first_name": "Monina Gazelle Charina",
+  "middle_name": "Baker",
+  "last_name": "Carandang",
+  "employee_number": "12-12345",
+  "user_type": "approver",
+  "applications": [],
+  "user_status": "pending",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647d55bd3ecafac9cc664db3"
+  },
+  "email": "clcepe@up.edu.ph",
+  "password": "$2b$10$4E1BERXXK8gxfHmVd3/JyuK1puaNoSFz8vccpks5hAg/DSIoWHr9.",
+  "first_name": "Claizel Coubeili",
+  "middle_name": "Lakefield",
+  "last_name": "Cepe",
+  "employee_number": "01-23456",
+  "user_type": "approver",
+  "applications": [],
+  "user_status": "pending",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647d55f33ecafac9cc664dba"
+  },
+  "email": "cgangcana@up.edu.ph",
+  "password": "$2b$10$B9lC4Cy.FfjwgR0EjD9eZuYxQF9CbsgT/5EkxQh9Z9GQ5dNKdux3W",
+  "first_name": "Carl",
+  "middle_name": "Great",
+  "last_name": "Angcana",
+  "employee_number": "23-45678",
+  "user_type": "approver",
+  "applications": [],
+  "user_status": "pending",
+  "__v": 0
+}]

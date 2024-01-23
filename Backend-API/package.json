@@ -1,0 +1,27 @@
+{
+  "name": "cmsc100-project-backend",
+  "version": "1.0.0",
+  "description": "Backend for the CMSC 100 Final Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Group 4 UV1L",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.1.1",
+    "nodemon": "^2.0.22",
+    "pdfkit": "^0.13.0",
+    "swagger-jsdoc": "5.0.1",
+    "swagger-ui-express": "^4.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

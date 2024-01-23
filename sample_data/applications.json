@@ -1,0 +1,107 @@
+[{
+  "_id": {
+    "$oid": "647d570c3ecafac9cc664ef9"
+  },
+  "status": "Closed",
+  "step": 2,
+  "remarks": [],
+  "student_submission": {
+    "remark": "Done na po. Thanks!",
+    "link": "https://github.com/CMSC100/project-labteam-4-333",
+    "date": {
+      "$date": {
+        "$numberLong": "1685935884701"
+      }
+    },
+    "step_given": 2
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647d57383ecafac9cc664f24"
+  },
+  "status": "Pending",
+  "step": 1,
+  "remarks": [],
+  "student_submission": {
+    "remark": "New submission. Done na po. Thanks!",
+    "link": "https://github.com/CMSC100/project-labteam-4-333",
+    "date": {
+      "$date": {
+        "$numberLong": "1685935928743"
+      }
+    },
+    "step_given": 1
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647d575b3ecafac9cc664f34"
+  },
+  "status": "Pending",
+  "step": 2,
+  "remarks": [],
+  "student_submission": {
+    "remark": "Yay.",
+    "link": "https://github.com/",
+    "date": {
+      "$date": {
+        "$numberLong": "1685935963218"
+      }
+    },
+    "step_given": 2
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "647d57933ecafac9cc664f51"
+  },
+  "status": "Pending",
+  "step": 3,
+  "remarks": [
+    {
+      "remark": "Bayaran mo yung beaker sa beaker hall.",
+      "date": {
+        "$date": {
+          "$numberLong": "1685936395450"
+        }
+      },
+      "commenter": {
+        "$oid": "647a10d98719327582622ace"
+      },
+      "step_given": 3,
+      "_id": {
+        "$oid": "647d590b3ecafac9cc6650ff"
+      }
+    }
+  ],
+  "student_submission": {
+    "remark": "Very slayyy.",
+    "link": "https://github.com/MarshmallowMann",
+    "date": {
+      "$date": {
+        "$numberLong": "1685936019587"
+      }
+    },
+    "step_given": 3
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "647d59953ecafac9cc66517b"
+  },
+  "status": "Cleared",
+  "step": 5,
+  "remarks": [],
+  "student_submission": {
+    "remark": "pagraduatin niyo na ako plsplspls",
+    "link": "https://github.com/",
+    "date": {
+      "$date": {
+        "$numberLong": "1685936533706"
+      }
+    },
+    "step_given": 4
+  },
+  "__v": 0
+}]
